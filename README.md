@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OP-jerbe
+- 👋 Hi, I’m Joshua
 - 👀 I’m interested in data analysis and automation.
 - 📫 How to reach me: j.erbe@oregon-physics.com
 
